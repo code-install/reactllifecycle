@@ -1,2 +1,2 @@
 # reactllifecycle
-A brief tutorial on React Life Cycle methods. 
+A brief Counter tutorial on React Life Cycle methods. 
